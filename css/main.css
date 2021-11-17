@@ -36,6 +36,7 @@ header a {
 
 .jumbotron {
     display: flex;
+    width: 100%;
     align-items:center;
     background-image: url('../images/websitepic13.jpg'); 
     background-size: cover;
@@ -84,6 +85,8 @@ h2.section-title {
 }
 
 #background {
+    display:flex;
+    width: 100%;
     margin-top: -145rem;
     background: lightgrey;
     background-repeat: no-repeat;
